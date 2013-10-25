@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     <link href="css/bootstrap-combobox.css" media="screen" rel="stylesheet" type="text/css">
     <style>
-      .form-control {
+      .form-control, .combobox-container {
         width: 200px;
       }
     </style>
@@ -22,17 +22,9 @@
         <form>
           <fieldset>
             <legend>Transforms a select box into a autoselecting combobox</legend>
-            <label>Turns this</label>
-            <select class="input-large form-control">
-              <option value="">Choose a State</option>
-              <option value="PA">Pennsylvania</option>
-              <option value="CT">Connecticut</option>
-              <option value="NY">New York</option>
-              <option value="MD">Maryland</option>
-              <option value="VA">Virginia</option>
-            </select>
-              <label>Into this</label>
-              <select class="combobox input-large" name="normal">
+            <div class="form-group">
+              <label>Turns this</label>
+              <select class="input-large form-control">
                 <option value="">Choose a State</option>
                 <option value="PA">Pennsylvania</option>
                 <option value="CT">Connecticut</option>
@@ -40,38 +32,46 @@
                 <option value="MD">Maryland</option>
                 <option value="VA">Virginia</option>
               </select>
+            </div>
+            <div class="form-group">
+              <label>Into this</label>
+              <select class="combobox input-large form-control" name="normal">
+                <option value="">Choose a State</option>
+                <option value="PA">Pennsylvania</option>
+                <option value="CT">Connecticut</option>
+                <option value="NY">New York</option>
+                <option value="MD">Maryland</option>
+                <option value="VA">Virginia</option>
+              </select>
+            </div>
           </fieldset>
         </form>
       </div>
       <div class="row">
-        <form class="form-horizontal">
+        <form>
           <fieldset>
             <legend>Transforms a select box into a autoselecting combobox</legend>
-            <div class="control-group">
-              <label class="control-label">Turns this</label>
-              <div class="controls">
-                <select class="form-control" required="required">
-                  <option></option>
-                  <option value="PA">Pennsylvania</option>
-                  <option value="CT">Connecticut</option>
-                  <option value="NY">New York</option>
-                  <option value="MD">Maryland</option>
-                  <option value="VA">Virginia</option>
-                </select>
-              </div>
+            <div class="form-group">
+              <label>Turns this</label>
+              <select class="form-control" required="required">
+                <option></option>
+                <option value="PA">Pennsylvania</option>
+                <option value="CT">Connecticut</option>
+                <option value="NY">New York</option>
+                <option value="MD">Maryland</option>
+                <option value="VA">Virginia</option>
+              </select>
             </div>
-            <div class="control-group">
-              <label class="control-label">Into this</label>
-              <div class="controls">
-                <select class="combobox" name="horizontal" required="required">
-                  <option></option>
-                  <option value="PA">Pennsylvania</option>
-                  <option value="CT">Connecticut</option>
-                  <option value="NY">New York</option>
-                  <option value="MD">Maryland</option>
-                  <option value="VA">Virginia</option>
-                </select>
-              </div>
+            <div class="form-group">
+              <label>Into this</label>
+              <select class="combobox form-control" name="horizontal" required="required">
+                <option></option>
+                <option value="PA">Pennsylvania</option>
+                <option value="CT">Connecticut</option>
+                <option value="NY">New York</option>
+                <option value="MD">Maryland</option>
+                <option value="VA">Virginia</option>
+              </select>
             </div>
           </fieldset>
         </form>
@@ -80,24 +80,28 @@
         <form class="form-inline">
           <fieldset>
             <legend>Transforms a select box into a autoselecting combobox</legend>
-            <label>Turns this</label>
-            <select class="form-control">
-              <option></option>
-              <option value="PA">Pennsylvania</option>
-              <option value="CT">Connecticut</option>
-              <option value="NY">New York</option>
-              <option value="MD">Maryland</option>
-              <option value="VA">Virginia</option>
-            </select>
-            <label>Into this</label>
-            <select class="combobox" name="inline">
-              <option></option>
-              <option value="PA">Pennsylvania</option>
-              <option value="CT">Connecticut</option>
-              <option value="NY">New York</option>
-              <option value="MD">Maryland</option>
-              <option value="VA">Virginia</option>
-            </select>
+            <div class="form-group">
+              <label>Turns this</label>
+              <select class="form-control">
+                <option></option>
+                <option value="PA">Pennsylvania</option>
+                <option value="CT">Connecticut</option>
+                <option value="NY">New York</option>
+                <option value="MD">Maryland</option>
+                <option value="VA">Virginia</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label>Into this</label>
+              <select class="combobox form-control" name="inline">
+                <option></option>
+                <option value="PA">Pennsylvania</option>
+                <option value="CT">Connecticut</option>
+                <option value="NY">New York</option>
+                <option value="MD">Maryland</option>
+                <option value="VA">Virginia</option>
+              </select>
+            </div>
           </fieldset>
         </form>
       </div>
