@@ -1,0 +1,1483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CAT",
+				"CATHODE_TYPE"
+			],
+			[
+				"SPe",
+				"SPECIES_CODE"
+			],
+			[
+				"Specie",
+				"SPECIES_CODE"
+			],
+			[
+				"toHave",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"can",
+				"canoe-barge-label"
+			],
+			[
+				"A",
+				"AddBtnWidgets"
+			],
+			[
+				"newStat",
+				"newStationErrMsg"
+			],
+			[
+				"pub",
+				"publishedValue"
+			],
+			[
+				"invaliS",
+				"invalidStreamLength"
+			],
+			[
+				"inv",
+				"invalidStationMsg"
+			],
+			[
+				"exe",
+				"execute_script  (function)"
+			],
+			[
+				"wild",
+				"wildlifeData"
+			],
+			[
+				"downloadClick",
+				"downloadClickChannelName"
+			],
+			[
+				"obj",
+				"object function	new function as a property of an object"
+			],
+			[
+				"dojo",
+				"dojoAttachPoint=  (attribute)"
+			],
+			[
+				"onPre",
+				"onPreviewClick"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/build_systems/agrc.sublime-build",
+	"command_palette":
+	{
+		"height": 316.0,
+		"selected_items":
+		[
+			[
+				"war",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"tag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"remove t",
+				"Emmet: Remove Tag"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wrp",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gis",
+				"Gist: Create Public Gist"
+			],
+			[
+				"line",
+				"Permute Lines: Reverse"
+			],
+			[
+				"lin",
+				"Sort Lines"
+			],
+			[
+				"les",
+				"Less tabs: close old tabs"
+			],
+			[
+				"chang sh",
+				"Change List: Show"
+			],
+			[
+				"change",
+				"Change List: Show"
+			],
+			[
+				"chang",
+				"Change List: Maintenance"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"intsal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverela",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liv",
+				"LiveReload: Self test"
+			],
+			[
+				"col",
+				"Color picker"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"tra pr",
+				"Traverse: Traverse from Project"
+			],
+			[
+				"edit ",
+				"Project: Edit"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"curr",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"curren",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"cur",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"curre",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"pdb",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"docu",
+				"Rope: Show Documentation"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: console.info call for functions"
+			],
+			[
+				"code fo",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 327.0,
+		"history":
+		[
+			"sublime.installed_packages_folder()",
+			"exit()",
+			"clear",
+			"clear()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/templates/PointDef.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/run.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/typeahead/typeahead.js-bootstrap.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/templates/CoordTypeToggle.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/resources/SettingsDialog.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/templates/SettingsDialog.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/CoordTypeToggle.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/templates/App.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/templates/Header.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/resources/Header.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/resources/App.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/index.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/Gruntfile.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/main.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/NewCollectionEvent.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/templates/NewCollectionEvent.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/habitat/templates/Habitat.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/package.json",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/.jshintrc",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/BUILD_STEPS.md",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/ChangeLog.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/MoreInfoDialog.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/_GridMixin.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecMoreInfoDialog.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/Catch.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/templates/MoreInfoDialog.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecMethod.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/Method.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecPointDef.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecStreamSearch.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/modules/tests/spec/SpecDomains.js",
+		"/Users/scottdavis/Desktop/SpecDomains.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/leaflet/leaflet-src.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/leaflet/leaflet.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/templates/VerifyMap.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/VerifyMap.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/resources/VerifyMap.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/StreamSearch.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/Station.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/templates/Station.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/resources/Station.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/resources/StreamSearch.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/widgets/locate/MagicZoom.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/templates/StreamSearch.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/Location.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/_GeoDefMixin.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/resources/locate/MagicZoom.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/resources/Location.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/widgets/locate/templates/MagicZoom.html",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/MapMock.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/wildlifedataentry.sublime-project",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecNewCollectionEvent.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/ui-tests/submitReport.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/Health.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecHealth.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/_AddBtnMixin.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/location/templates/Location.html",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages_LOCAL/AMD Importer/Default.sublime-commands",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/templates/Method.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/Backpack.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecBackpack.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/RaftBoat.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/CanoeBarge.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/App.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/Tag.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/_MultipleWidgetsWithAddBtnMixin.js",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/dist/sftp-config-alt.json",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/templates/Tag.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/resources/Tag.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/templates/Health.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/templates/Catch.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/templates/Backpack.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecRaftBoat.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/ui-tests/onCathodeTypeChange.js",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/intern.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/bootstrap-combobox/js/bootstrap-combobox.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/node_modules/intern/lib/wd.js",
+		"/Users/scottdavis/Documents/Projects/OpenSource/intern/.git/COMMIT_EDITMSG",
+		"/Users/scottdavis/Documents/Projects/OpenSource/intern/lib/wd.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/ui-tests/submitReport.py",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/ui-tests/NewStation",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/ui-tests/chromedriver.log",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/resources/CanoeBargesContainer.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/resources/RaftBoatsContainer.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/resources/BackpacksContainer.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/templates/BackpacksContainer.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecCatch.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/resources/Backpack.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecLocation.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/GridDropdown.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecStation.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/_SubmitJobMixin.js",
+		"/Users/scottdavis/Documents/Projects/working/intern-tutorial/tests/intern.js",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/scottdavis/Documents/Projects/working/intern-tutorial/tests/functional/index.js",
+		"/Library/Preferences/VMware Fusion/vmnet8/nat.conf",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecTag.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/templates/RaftBoat.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/BackpacksContainer.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/templates/CanoeBarge.html",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecBackpacksContainer.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/CanoeBargesContainer.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/method/RaftBoatsContainer.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/TagsContainer.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/modules/GUID.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecApp.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch/resources/Catch.css",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecCanoeBarge.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/SpecTagsContainer.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/_ClearValuesMixin.js",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages/Less Tabs/lessTabs.sublime-settings",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages/User/lessTabs.sublime-settings",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/modules/Domains.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/tests/spec/Spec_GridMixin.js",
+		"/Users/scottdavis/Dropbox/apps/sublime3/Packages/User/snippets/jasmine/jasafter.sublime-snippet",
+		"/Users/scottdavis/Dropbox/apps/sublime3/Packages/User/snippets/jasmine/jasunimplemented.sublime-snippet",
+		"/Users/scottdavis/Dropbox/apps/sublime3/Packages/JsDebuggr/JsDebuggr.py",
+		"/Users/scottdavis/Library/Application Support/Sublime Text 3/Packages/JsDebuggr/JsDebuggr.sublime-settings",
+		"/Users/scottdavis/Dropbox/apps/sublime3/Packages/User/themes/Darkside_modified.tmTheme",
+		"/Users/scottdavis/Dropbox/apps/sublime3/Packages/User/Package Control.sublime-settings",
+		"/Users/scottdavis/Dropbox/apps/sublime3/Packages/User/themes/Darkside.tmTheme",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/modules/tests/spec/SpecString.js",
+		"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/agrc/modules/tests/spec/SpecNumber.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app",
+			"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/**/*.js",
+			"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app",
+			"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app/catch",
+			"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/src/app",
+			"C:\\inetpub\\wwwroot\\RoadkillReporter_Mobile\\trunk\\src\\app",
+			"C:\\inetpub\\wwwroot\\RoadkillReporter_Mobile\\trunk",
+			"<open folders>,C:\\inetpub\\wwwroot\\RoadkillReporter_Mobile\\trunk",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input",
+			"strong",
+			"typeae",
+			"strong",
+			"data",
+			"button",
+			"btn",
+			"h3",
+			"lg",
+			"jshintFiles",
+			"srcFiles",
+			"large",
+			"hide",
+			"stubmodule",
+			"updatemarkerPosition",
+			"cnty",
+			"input",
+			"span",
+			"contextFiel",
+			"this",
+			"streamsearch",
+			"stream",
+			"_addingGraph",
+			"vmap",
+			"thanks",
+			"flip",
+			"thanks",
+			"this.query.",
+			"color",
+			"streamsear",
+			"has",
+			"sniff",
+			"MagicZoom",
+			"getjobresult",
+			"”",
+			"keys”",
+			"“",
+			".map",
+			"reportArchives",
+			"clearrepo",
+			"date",
+			"initgri",
+			"diet",
+			"tag",
+			"eventId",
+			"animation",
+			"save",
+			"eventid",
+			"volt",
+			"freq",
+			"true",
+			"\n                    ",
+			"170px",
+			"span3",
+			"clear",
+			"pass",
+			"spyOn",
+			"errorlogger",
+			"clear",
+			"onSubmitSuccess",
+			"onsubmitsu",
+			"onSubmi",
+			"onSuccessfulSubmit",
+			"testWidget2",
+			"onsubmitsuc",
+			"toggles",
+			"query",
+			"verifyMapBtn",
+			"wait(",
+			"wait",
+			"\\uE004",
+			"type",
+			"0]",
+			"el",
+			"\\uE004",
+			"this",
+			"remote",
+			"' ",
+			"gov",
+			"data",
+			"Domains",
+			"defs",
+			"newEvent",
+			"buildfe",
+			"displayFi",
+			"AGRC.fieldNames.samplingEvents.",
+			"onsubmi",
+			"getgui",
+			"field",
+			".speciesCode",
+			".weight",
+			".guid",
+			"AGRC",
+			".store",
+			"id",
+			"build",
+			"locationTb.",
+			"locationTb",
+			"AGRC.fieldNames.samplingEvents",
+			"buildFeatureObject",
+			"build",
+			"buildFeatureObject",
+			"data",
+			"recordSet",
+			";",
+			"value",
+			"fn",
+			"domConstruct",
+			"submit",
+			"onSubmitClick",
+			"'ID'",
+			"_GridMixin",
+			"dietGrid",
+			"noFishMsg",
+			"isValid",
+			"valid",
+			"testWidget.method",
+			"testWidget2.location",
+			"testWidget2",
+			"testWidget.location",
+			"this.method",
+			"this.method.",
+			"his.location",
+			">\n",
+			"Domains",
+			"text",
+			"tes",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GridDropdown",
+			"Backpack",
+			"app/location/Location",
+			"",
+			"previewClickChannelName",
+			"results-pane-inner",
+			"result-group",
+			"results-pane-inner",
+			"'",
+			"",
+			"plpco",
+			"vote"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 428.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 348.0
+	},
+	"project": "bootstrap-combobox.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"settinh",
+				"dataentry/src/app/templates/SettingsDialog.html"
+			],
+			[
+				"poinht",
+				"dataentry/src/app/location/templates/PointDef.html"
+			],
+			[
+				"stationht",
+				"dataentry/src/app/location/templates/Station.html"
+			],
+			[
+				"appc",
+				"dataentry/src/app/resources/App.css"
+			],
+			[
+				"stationc",
+				"dataentry/src/app/location/resources/Station.css"
+			],
+			[
+				"typec",
+				"dataentry/src/typeahead/typeahead.js-bootstrap.css"
+			],
+			[
+				"run",
+				"dataentry/src/app/run.js"
+			],
+			[
+				"stati",
+				"dataentry/src/app/location/Station.js"
+			],
+			[
+				"coorh",
+				"dataentry/src/app/location/templates/CoordTypeToggle.html"
+			],
+			[
+				"coord",
+				"dataentry/src/app/location/CoordTypeToggle.js"
+			],
+			[
+				"coordh",
+				"dataentry/src/app/location/templates/CoordTypeToggle.html"
+			],
+			[
+				"settingc",
+				"dataentry/src/app/resources/SettingsDialog.css"
+			],
+			[
+				"settinght",
+				"dataentry/src/app/templates/SettingsDialog.html"
+			],
+			[
+				"heac",
+				"dataentry/src/app/resources/Header.css"
+			],
+			[
+				"grun",
+				"dataentry/Gruntfile.js"
+			],
+			[
+				"inde",
+				"dataentry/src/index.html"
+			],
+			[
+				"headht",
+				"dataentry/src/app/templates/Header.html"
+			],
+			[
+				"gru",
+				"dataentry/Gruntfile.js"
+			],
+			[
+				"apph",
+				"dataentry/src/app/templates/App.html"
+			],
+			[
+				"pack",
+				"dataentry/package.json"
+			],
+			[
+				"ind",
+				"dataentry/src/index.html"
+			],
+			[
+				"app.c",
+				"dataentry/src/app/resources/App.css"
+			],
+			[
+				"habh",
+				"dataentry/src/app/habitat/templates/Habitat.html"
+			],
+			[
+				"newht",
+				"dataentry/src/app/templates/NewCollectionEvent.html"
+			],
+			[
+				"main",
+				"dataentry/src/app/main.js"
+			],
+			[
+				".js",
+				"dataentry/.jshintrc"
+			],
+			[
+				"chan",
+				"dataentry/src/ChangeLog.html"
+			],
+			[
+				"change",
+				"dataentry/src/ChangeLog.html"
+			],
+			[
+				"build",
+				"dataentry/BUILD_STEPS.md"
+			],
+			[
+				"more",
+				"dataentry/src/app/catch/MoreInfoDialog.js"
+			],
+			[
+				"_grid",
+				"dataentry/src/app/_GridMixin.js"
+			],
+			[
+				"moreht",
+				"dataentry/src/app/catch/templates/MoreInfoDialog.html"
+			],
+			[
+				"specmore",
+				"dataentry/src/app/tests/spec/SpecMoreInfoDialog.js"
+			],
+			[
+				"catch",
+				"dataentry/src/app/catch/Catch.js"
+			],
+			[
+				"morein",
+				"dataentry/src/app/catch/MoreInfoDialog.js"
+			],
+			[
+				"metho",
+				"dataentry/src/app/method/Method.js"
+			],
+			[
+				"specmet",
+				"dataentry/src/app/tests/spec/SpecMethod.js"
+			],
+			[
+				"specdom",
+				"dataentry/src/agrc/modules/tests/spec/SpecDomains.js"
+			],
+			[
+				"specstream",
+				"dataentry/src/app/tests/spec/SpecStreamSearch.js"
+			],
+			[
+				"specpoint",
+				"dataentry/src/app/tests/spec/SpecPointDef.js"
+			],
+			[
+				"specme",
+				"dataentry/src/app/tests/spec/SpecMethod.js"
+			],
+			[
+				"meth",
+				"dataentry/src/app/method/Method.js"
+			],
+			[
+				"leafs",
+				"dataentry/src/leaflet/leaflet-src.js"
+			],
+			[
+				"leafj",
+				"dataentry/src/leaflet/leaflet.js"
+			],
+			[
+				"chang",
+				"dataentry/src/ChangeLog.html"
+			],
+			[
+				"magicjs",
+				"dataentry/src/agrc/widgets/locate/MagicZoom.js"
+			],
+			[
+				"streamc",
+				"dataentry/src/app/resources/StreamSearch.css"
+			],
+			[
+				"veriy",
+				"dataentry/src/app/location/resources/VerifyMap.css"
+			],
+			[
+				"very",
+				"dataentry/src/app/location/VerifyMap.js"
+			],
+			[
+				"verifyht",
+				"dataentry/src/app/location/templates/VerifyMap.html"
+			],
+			[
+				"streamht",
+				"dataentry/src/app/templates/StreamSearch.html"
+			],
+			[
+				"station",
+				"dataentry/src/app/location/Station.js"
+			],
+			[
+				"stream",
+				"dataentry/src/app/StreamSearch.js"
+			],
+			[
+				"stationh",
+				"dataentry/src/app/location/templates/Station.html"
+			],
+			[
+				"locationc",
+				"dataentry/src/app/location/resources/Location.css"
+			],
+			[
+				"magicc",
+				"dataentry/src/agrc/resources/locate/MagicZoom.css"
+			],
+			[
+				"loca",
+				"dataentry/src/app/location/Location.js"
+			],
+			[
+				"veri",
+				"dataentry/src/app/location/VerifyMap.js"
+			],
+			[
+				"_geo",
+				"dataentry/src/app/location/_GeoDefMixin.js"
+			],
+			[
+				"veric",
+				"dataentry/src/app/location/resources/VerifyMap.css"
+			],
+			[
+				"magicht",
+				"dataentry/src/agrc/widgets/locate/templates/MagicZoom.html"
+			],
+			[
+				"strea",
+				"dataentry/src/app/StreamSearch.js"
+			],
+			[
+				"statio",
+				"dataentry/src/app/location/Station.js"
+			],
+			[
+				"magiczoj",
+				"dataentry/src/agrc/widgets/locate/MagicZoom.js"
+			],
+			[
+				"project",
+				"dataentry/wildlifedataentry.sublime-project"
+			],
+			[
+				"buil",
+				"dataentry/BUILD_STEPS.md"
+			],
+			[
+				"sub",
+				"dataentry/ui-tests/submitReport.js"
+			],
+			[
+				"specmor",
+				"dataentry/src/app/tests/spec/SpecMoreInfoDialog.js"
+			],
+			[
+				"hea",
+				"dataentry/src/app/catch/Health.js"
+			],
+			[
+				"speche",
+				"dataentry/src/app/tests/spec/SpecHealth.js"
+			],
+			[
+				"specne",
+				"dataentry/src/app/tests/spec/SpecNewCollectionEvent.js"
+			],
+			[
+				"locaht",
+				"dataentry/src/app/location/templates/Location.html"
+			],
+			[
+				"new",
+				"dataentry/src/app/NewCollectionEvent.js"
+			],
+			[
+				"_addb",
+				"dataentry/src/app/_AddBtnMixin.js"
+			],
+			[
+				"heal",
+				"dataentry/src/app/catch/Health.js"
+			],
+			[
+				"_gri",
+				"dataentry/src/app/_GridMixin.js"
+			],
+			[
+				"catc",
+				"dataentry/src/app/catch/Catch.js"
+			],
+			[
+				"mor",
+				"dataentry/src/app/catch/MoreInfoDialog.js"
+			],
+			[
+				"_multip",
+				"dataentry/src/app/_MultipleWidgetsWithAddBtnMixin.js"
+			],
+			[
+				"_addbt",
+				"dataentry/src/app/_AddBtnMixin.js"
+			],
+			[
+				"tag",
+				"dataentry/src/app/catch/Tag.js"
+			],
+			[
+				"back",
+				"dataentry/src/app/method/Backpack.js"
+			],
+			[
+				"app",
+				"dataentry/src/app/App.js"
+			],
+			[
+				"_gi",
+				"dataentry/src/app/_GridMixin.js"
+			],
+			[
+				"methoh",
+				"dataentry/src/app/method/templates/Method.html"
+			],
+			[
+				"raf",
+				"dataentry/src/app/method/RaftBoat.js"
+			],
+			[
+				"buildst",
+				"dataentry/BUILD_STEPS.md"
+			],
+			[
+				"tag.c",
+				"dataentry/src/app/catch/resources/Tag.css"
+			],
+			[
+				"healhtm",
+				"dataentry/src/app/catch/templates/Health.html"
+			],
+			[
+				"taght",
+				"dataentry/src/app/catch/templates/Tag.html"
+			],
+			[
+				"catchht",
+				"dataentry/src/app/catch/templates/Catch.html"
+			],
+			[
+				"methht",
+				"dataentry/src/app/method/templates/Method.html"
+			],
+			[
+				"backht",
+				"dataentry/src/app/method/templates/Backpack.html"
+			],
+			[
+				"methoht",
+				"dataentry/src/app/method/templates/Method.html"
+			],
+			[
+				"oncath",
+				"dataentry/ui-tests/onCathodeTypeChange.js"
+			],
+			[
+				"methodht",
+				"dataentry/src/app/method/templates/Method.html"
+			],
+			[
+				"specraf",
+				"dataentry/src/app/tests/spec/SpecRaftBoat.js"
+			],
+			[
+				"verify",
+				"dataentry/src/app/location/VerifyMap.js"
+			],
+			[
+				"inter",
+				"dataentry/intern.js"
+			],
+			[
+				"combo",
+				"dataentry/src/bootstrap-combobox/js/bootstrap-combobox.js"
+			],
+			[
+				"_addm",
+				"dataentry/src/app/_AddBtnMixin.js"
+			],
+			[
+				"ra",
+				"dataentry/src/app/method/RaftBoat.js"
+			],
+			[
+				"specra",
+				"dataentry/src/app/tests/spec/SpecRaftBoat.js"
+			],
+			[
+				"backconc",
+				"dataentry/src/app/method/resources/BackpacksContainer.css"
+			],
+			[
+				"rafconc",
+				"dataentry/src/app/method/resources/RaftBoatsContainer.css"
+			],
+			[
+				"canconc",
+				"dataentry/src/app/method/resources/CanoeBargesContainer.css"
+			],
+			[
+				"backconht",
+				"dataentry/src/app/method/templates/BackpacksContainer.html"
+			],
+			[
+				"backcss",
+				"dataentry/src/app/method/resources/Backpack.css"
+			],
+			[
+				"locacs",
+				"dataentry/src/app/location/resources/Location.css"
+			],
+			[
+				"locationht",
+				"dataentry/src/app/location/templates/Location.html"
+			],
+			[
+				"newlj",
+				"dataentry/src/app/NewCollectionEvent.js"
+			],
+			[
+				"specca",
+				"dataentry/src/app/tests/spec/SpecCatch.js"
+			],
+			[
+				"_add",
+				"dataentry/src/app/_MultipleWidgetsWithAddBtnMixin.js"
+			],
+			[
+				"ne",
+				"dataentry/src/app/NewCollectionEvent.js"
+			],
+			[
+				"mteh",
+				"dataentry/src/app/method/Method.js"
+			],
+			[
+				"speclo",
+				"dataentry/src/app/tests/spec/SpecLocation.js"
+			],
+			[
+				"location",
+				"dataentry/src/app/location/Location.js"
+			],
+			[
+				"newco",
+				"dataentry/src/app/NewCollectionEvent.js"
+			],
+			[
+				"specnew",
+				"dataentry/src/app/tests/spec/SpecNewCollectionEvent.js"
+			],
+			[
+				"speccat",
+				"dataentry/src/app/tests/spec/SpecCatch.js"
+			],
+			[
+				"specmeh",
+				"dataentry/src/app/tests/spec/SpecMethod.js"
+			],
+			[
+				"submi",
+				"dataentry/ui-tests/submitReport.js"
+			],
+			[
+				"grid",
+				"dataentry/src/app/catch/GridDropdown.js"
+			],
+			[
+				"stat",
+				"dataentry/src/app/location/Station.js"
+			],
+			[
+				"_g",
+				"dataentry/src/app/_GridMixin.js"
+			],
+			[
+				"specstatio",
+				"dataentry/src/app/tests/spec/SpecStation.js"
+			],
+			[
+				"_sub",
+				"dataentry/src/app/_SubmitJobMixin.js"
+			],
+			[
+				"locat",
+				"dataentry/src/app/location/Location.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"amd",
+				"~/Documents/Projects/AMDImporter/amdimporter.sublime-project"
+			],
+			[
+				"pel",
+				"~/Documents/Projects/PEL/pel.sublime-project"
+			],
+			[
+				"agr",
+				"~/Documents/Projects/agrc.widgets/agrcwidgets.sublime-project"
+			],
+			[
+				"bro",
+				"~/Documents/Projects/Broadband/broadband.sublime-project"
+			],
+			[
+				"am",
+				"~/Dropbox/apps/sublime3/Packages/AMD Helper/amdhelper.sublime-workspace"
+			],
+			[
+				"at",
+				"~/Documents/Projects/Atlas/atlas.sublime-project"
+			],
+			[
+				"ad",
+				"~/Documents/Projects/amdimporter.sublime-project"
+			],
+			[
+				"surf",
+				"/Users/scottdavis/Documents/Projects/SurfaceWaterQuality/surfacewaterquality.sublime-project"
+			],
+			[
+				"sur",
+				"~/Documents/Projects/SurfaceWaterQuality_NEW/surfacewaterquality.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/Projects/ACTSStatisticsViewer/actsstatisticsviewer.sublime-project"
+			],
+			[
+				"ac",
+				"~/Documents/Projects/ACTSStatisticsViewer/actsstatisticsviewer.sublime-project"
+			],
+			[
+				"rast",
+				"~/Documents/Projects/Raster/raster.sublime-project"
+			],
+			[
+				"park",
+				"/Users/scottdavis/Documents/Projects/ParkCityEnviroViewer/parkcityenviroviewer.sublime-project"
+			],
+			[
+				"sola",
+				"/Users/scottdavis/Documents/Projects/SolarMapWidget/solarmapwidget.sublime-project"
+			],
+			[
+				"boi",
+				"/Users/scottdavis/Documents/Projects/AGRCJavaScriptProjectBoilerPlate/boilerplate.sublime-project"
+			],
+			[
+				"javascrip",
+				"/Users/scottdavis/Documents/Projects/AGRCJavaScriptProjectBoilerPlate/boilerplate.sublime-project"
+			],
+			[
+				"uda",
+				"/Users/scottdavis/Documents/Projects/ACTSStatisticsViewer/actsstatisticsviewer.sublime-project"
+			],
+			[
+				"widget",
+				"/Users/scottdavis/Documents/Projects/AGRCWidgets/agrcwidgets.sublime-project"
+			],
+			[
+				"widge",
+				"/Users/scottdavis/Documents/Projects/AGRCWidgets/agrcwidgets.sublime-project"
+			],
+			[
+				"deq",
+				"/Users/scottdavis/Documents/Projects/DEQSpills/deqspills.sublime-project"
+			],
+			[
+				"de",
+				"/Users/scottdavis/Documents/Projects/DEQSpills/deqspills.sublime-project"
+			],
+			[
+				"dwild",
+				"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/wildlifedataentry.sublime-project"
+			],
+			[
+				"sol",
+				"/Users/scottdavis/Documents/Projects/SaltLakeCity.UT.US.GIS.Mapping/OldSolar.sublime-project"
+			],
+			[
+				"dojowi",
+				"/Users/scottdavis/Dropbox/apps/grunt/.grunt/dojowidget/grunt-init-dojowidget.sublime-project"
+			],
+			[
+				"gru",
+				"/Users/scottdavis/Dropbox/apps/grunt/.grunt/dotgrunt.sublime-project"
+			],
+			[
+				"grun",
+				"/Users/scottdavis/Dropbox/apps/grunt/.grunt/dotgrunt.sublime-project"
+			],
+			[
+				"ha",
+				"/Users/scottdavis/Documents/Projects/HAVA/hava.sublime-project"
+			],
+			[
+				"broa",
+				"/Users/scottdavis/Documents/Projects/Broadband/broadband.sublime-project"
+			],
+			[
+				"ro",
+				"/Users/scottdavis/Documents/Projects/RoadkillReporter_Mobile/roadkillmobile.sublime-project"
+			],
+			[
+				"ra",
+				"/Users/scottdavis/Documents/Projects/Raster/raster.sublime-project"
+			],
+			[
+				"ras",
+				"/Users/scottdavis/Documents/Projects/Raster/raster.sublime-project"
+			],
+			[
+				"wild",
+				"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/wildlifedataentry.sublime-project"
+			],
+			[
+				"wil",
+				"/Users/scottdavis/Documents/Projects/Wildlife/dataentry/wildlifedataentry.sublime-project"
+			],
+			[
+				"desk",
+				"/C/inetpub/wwwroot/RoadkillReporter_Desktop/roadkillreporterdesktop.sublime-project"
+			],
+			[
+				"ibi",
+				"/C/inetpub/wwwroot/IBIS/ibis.sublime-project"
+			],
+			[
+				"raster",
+				"/C/inetpub/wwwroot/Raster/raster.sublime-project"
+			],
+			[
+				"deskto",
+				"/C/inetpub/wwwroot/RoadkillReporter_Desktop/roadkillreporterdesktop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
