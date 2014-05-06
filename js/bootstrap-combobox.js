@@ -354,9 +354,14 @@
       this.focused = false;
       var val = this.$element.val();
       if (!this.selected && val !== '' ) {
-        this.$element.val('');
-        this.$source.val('').trigger('change');
-        this.$target.val('').trigger('change');
+        if (this.options.freeform) {
+          this.$target.val(this.$source.val());
+        }
+        else {
+          this.$element.val('');
+          this.$source.val('').trigger('change');
+          this.$target.val('').trigger('change');
+        }
       }
       if (!this.mousedover && this.shown) {setTimeout(function () { that.hide(); }, 200);}
     }
